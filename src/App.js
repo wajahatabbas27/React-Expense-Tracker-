@@ -1,6 +1,6 @@
 import './App.css';
 
-import {GlobalContext, GlobalProvider} from './context/GlobalState'
+import {GlobalProvider} from './context/GlobalState'
 
 //inporting components
 import {Header} from './components/Header'
